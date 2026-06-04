@@ -8,8 +8,7 @@ Welcome to the AI Medical Health App! This application is designed to assist use
 
 
 ## Members
-- Ajay Kumar, IIT ISM Dhanbad
-- Ankit Kumar Singh, IIT ISM Dhanbad
+- P.G.Harish, SRM 
 
 ## Deployment
 The AI Medical Health App is deployed and ready to use. You can access it through the following link: [CureAI on Streamlit](https://ms-hackathon.streamlit.app)
